@@ -78,6 +78,5 @@ fn main() -> Result<(), windows::core::Error> {
         }
     }
 
-    track_application_usage();
     Ok(())
 }
